@@ -11,7 +11,7 @@ Instead of relying on guesswork or surface-level summaries, WGO maps out **facts
 
 ## The Audit Process
 ![hero](../.github/assets/wgo_hero.png)
-We welcome community contributions, custom audit lenses, and feedback!
+## We welcome community contributions, custom audit lenses, and feedback!
 
 * **Read the Engine Docs:** Check out [`whats-going-on`](https://github.com/wgo-audit/whats-going-on) to see how evidence runs are structured.
 * **Open an Issue:** Found a bug or want to request a new audit lens? Open an issue on the main repo.
