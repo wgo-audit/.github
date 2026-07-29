@@ -1,7 +1,7 @@
 ![logo](../.github/assets/wgo_banner.png)
 
-[![License](https://img.shields.io/github/license/wgo-audit/whats-going-on?style=flat-square&labelColor=111827&color=2DD4BF)](../.github/LICENSE.md)
-[![Release](https://img.shields.io/github/v/release/wgo-audit/whats-going-on?style=flat-square&labelColor=111827&color=2DD4BF)](https://github.com/wgo-audit/whats-going-on/releases/latest)
+![Active Development](https://img.shields.io/badge/Status-Active_Development-2DD4BF?style=flat-square&labelColor=111827)
+[![License](https://img.shields.io/github/license/wgo-audit/.github?style=flat-square&labelColor=111827&color=2DD4BF)](../.github/LICENSE.md)
 ![LLM Support](https://img.shields.io/badge/Support-Codex_%26_Claude-2DD4BF?style=flat-square&labelColor=111827)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-2DD4BF?style=flat-square&labelColor=111827)](../.github/CODE_OF_CONDUCT.md)
 
