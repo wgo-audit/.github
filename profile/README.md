@@ -1,9 +1,9 @@
 ![logo](../.github/assets/wgo_banner.png)
 
-![License](https://img.shields.io/github/license/vanityURLs/code?style=flat-square&labelColor=111827&color=2DD4BF)](../.github/LICENSE.md)
-![Release](https://img.shields.io/github/v/release/vanityURLs/code?style=flat-square&labelColor=111827&color=2DD4BF)](https://github.com/vanityURLs/code/releases/latest)
-[![LLM Support](https://img.shields.io/badge/Support-Codex_%26_Claude-2DD4BF?style=flat-square&labelColor=111827)]
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-2DD4BF?style=flat-square&labelColor=111827)](.github/CODE_OF_CONDUCT.md)
+[![License](https://img.shields.io/github/license/wgo-audit/whats-going-on?style=flat-square&labelColor=111827&color=2DD4BF)](../.github/LICENSE.md)
+[![Release](https://img.shields.io/github/v/release/wgo-audit/whats-going-on?style=flat-square&labelColor=111827&color=2DD4BF)](https://github.com/wgo-audit/whats-going-on/releases/latest)
+![LLM Support](https://img.shields.io/badge/Support-Codex_%26_Claude-2DD4BF?style=flat-square&labelColor=111827)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-2DD4BF?style=flat-square&labelColor=111827)](../.github/CODE_OF_CONDUCT.md)
 
 Turn code, documentation, repository history, and operational evidence into decision-useful findings and safe transition plans.
 
