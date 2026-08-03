@@ -13,6 +13,6 @@ Instead of relying on guesswork or surface-level summaries, WGO maps out **facts
 ![hero](../.github/assets/wgo_hero.png)
 ## We welcome community contributions, custom audit lenses, and feedback!
 
-* **Read the Engine Docs:** Check out [`whats-going-on`](https://github.com/wgo-audit/whats-going-on) to see how evidence runs are structured.
+* **Read the Engine Docs:** Check out [`code`](https://github.com/wgo-audit/code) to see how evidence runs are structured.
 * **Open an Issue:** Found a bug or want to request a new audit lens? Open an issue on the main repo.
 * **Join the Discussion:** Leave feedback on our architectural decision records (ADRs) or join ongoing discussions.
